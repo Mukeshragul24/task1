@@ -13,7 +13,6 @@
         <td>HTML Task 2</td>
         <td><a href="htmltask2.html">Link</a></td>
       </tr>
-
       <tr>
         <td>HTML Task 3</td>
         <td><a href="htmltask3.html"> Link </a></td>
